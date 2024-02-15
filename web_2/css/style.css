@@ -1,0 +1,23 @@
+
+h1{
+	
+}
+a{
+	text-decoration: none ;
+	color: tomato;
+}
+div{
+	padding: 20px 40px;
+	text-align: center; 
+
+}
+body{
+	background-color: #eeeeee;
+}
+
+main{
+	width: 70%;
+	background-color: #fff;
+	margin:auto;
+}
+
